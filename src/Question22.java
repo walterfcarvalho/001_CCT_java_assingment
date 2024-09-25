@@ -10,7 +10,7 @@ import java.util.Scanner;  // Import the Scanner class
  */
 public class Question22 {
     // this is a java feature, to suppress warnings on editor
-    @SuppressWarnings({ "resource", "unused" })
+    @SuppressWarnings({ "resource" })
     public static void main(String[] args) throws Exception {
         // Object that can read from keyboard
         Scanner oMyScanner = new Scanner(System.in);
